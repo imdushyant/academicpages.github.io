@@ -1,6 +1,6 @@
 # main links links
 main:
-- title: "Home"
+  - title: "Home"
     url: /home/
     
   - title: "Research"
@@ -15,7 +15,7 @@ main:
   - title: "Training"
     url: /Training/    
     
-   - title: "Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Gallery"
