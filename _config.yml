@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Dushyant Kumar"
-  avatar           : "dk_profile.jpg"
+  avatar           : "dk_profile.JPG"
   bio              : "Researcher interested in climate vegetation dynamics using DGVMs"
   location         : "Frankfurt"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=AciWBswAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Dushyant_Kumar11"
