@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Agricultural Engineering, University of Agricultural Sciences Raichur, 2012
+* M.Tech. in Earth System Sciences & Technology, Indian Instittue of Technology Kharagpur, India, 2014
+* Ph.D in Natural Science, Physical Geographyy, Senckenberg Biodiversity and Climate Research Center and GOethe University Frankfurt, 2021 (expected)
 
 Work experience
 ======
