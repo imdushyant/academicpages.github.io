@@ -1,11 +1,9 @@
 ---
 Title: " Biome diversity in South Asia-How can we improve vegetation models to understand global change impact at a regional level? "
-collection:
-publications (permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Science of The Total Environment, 671, 1001–1016'
-paperurl: 'https://doi.org/10.1016/j.scitotenv.2019.03.251'
+collection : permalink: /publication/Kumar & Scheiter 2019
+[DOI] (https://doi.org/10.1016/j.scitotenv.2019.03.251)
+![GitHub Logo](/images/Abstract-figures-paper-1.jpg)
+Format: ![Alt Text](url)
 
 #  ** Highlights: **
 - South Asia's rich biodiversity is threatened by climate change and land use.
