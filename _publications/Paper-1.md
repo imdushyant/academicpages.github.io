@@ -1,7 +1,7 @@
 ---
 title: " Biome diversity in South Asia-How can we improve vegetation models to understand global change impact at a regional level? "
-collection: publications (
-permalink: /publication/2010-10-01-paper-title-number-2
+collection:
+publications (permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Science of The Total Environment, 671, 1001–1016'
