@@ -18,4 +18,4 @@ The distribution of biomes in South Asia is expected to be affected severely by 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Kumar, D. and Scheiter, S., 2019. Biome diversity in South Asia-How can we improve vegetation models to understand global change impact at regional level?. Science of the Total Environment, 671, pp.1001-1016.
+Cite: Kumar, D. and Scheiter, S., 2019. Biome diversity in South Asia-How can we improve vegetation models to understand global change impact at regional level?. Science of the Total Environment, 671, pp.1001-1016.
