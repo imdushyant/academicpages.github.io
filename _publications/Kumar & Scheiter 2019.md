@@ -1,6 +1,6 @@
 ---
 Title: " Biome diversity in South Asia-How can we improve vegetation models to understand global change impact at a regional level? "
-collection : permalink: /publication/Kumar & Scheiter 2019
+
 [Paper Link](https://doi.org/10.1016/j.scitotenv.2019.03.251)
 
 
